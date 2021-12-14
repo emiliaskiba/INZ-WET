@@ -1,0 +1,41 @@
+
+    .navbar
+{
+    background-color: #feaec9;
+}
+
+    .navbar-brand
+{
+    color: honeydew;
+}
+.nav-link dropdown-toggle{
+    color: honeydew;
+}
+
+.btn
+{
+    background-color: #feaec9;
+}
+
+.linki{
+    color:red;
+}
+/* unvisited link */
+.linki:link {
+    color: red !important;
+  }
+  
+  /* visited link */
+  .a:visited {
+    color: green !important;
+  }
+  
+  /* mouse over link */
+  .a:hover {
+    color: hotpink !important;
+  }
+  
+  /* selected link */
+  .a:active {
+    color: blue !important;
+  }
